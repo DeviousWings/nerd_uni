@@ -1,0 +1,6 @@
+professors_name,avg_grades
+Mr. Quork,88
+Mrs. Donna,92
+Mrs. Jenny,80
+,
+"1. The average grade that is given by each professor - This query calculates the average grade for each professor by joining the professors, courses, and grades tables and grouping the results by professor name.",
